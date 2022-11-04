@@ -1,0 +1,27 @@
+﻿body {
+    font-family:Consolas;
+}
+
+.component
+{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.button {
+    background-color: #011745;
+    color: white;
+    padding: 7px 12px 7px 12px;
+    margin: 3px;
+    border-style: none;
+    font-size: 16px;
+}
+
+    .button:hover {
+        background-color: #336699;
+        color: white;
+        padding: 7px 12px 7px 12px;
+        margin: 3px;
+        border-style: none;
+        font-size: 16px;
+    }

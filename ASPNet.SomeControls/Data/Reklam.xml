@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/yazilimdilleri.png</ImageUrl>
+    <NavigateUrl>http://www.yazilimdilleri.net</NavigateUrl>
+    <AlternateText>Yazılım Dilleri Reklamı</AlternateText>
+    <Keyword>yazılım dilleri</Keyword>
+    <Impressions>1</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/kodlab.png</ImageUrl>
+    <NavigateUrl>http://www.kodlab.com/</NavigateUrl>
+    <AlternateText>Kodlab Yayıncılık Reklamı</AlternateText>
+    <Keyword>kodlab yayıncılık</Keyword>
+    <Impressions>1</Impressions>
+  </Ad>
+</Advertisements>
